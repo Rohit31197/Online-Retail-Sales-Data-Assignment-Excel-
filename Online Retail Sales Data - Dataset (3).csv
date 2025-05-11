@@ -1,0 +1,31 @@
+Order_ID,Product,Category,Quantity,Price_Per_Unit,Total_Amount,Customer_Region,Order_Date
+1001,Wireless Mouse,Electronics,3,500,1500,North,01-03-2025
+1002,Yoga Mat,Fitness,NULL,800,NULL,South,02-03-2025
+1003,Coffee Maker,Kitchenware,1,3500,3500,East,03-03-2025
+1004,Bluetooth Speaker,Electronics,4,NULL,NULL,West,04-03-2025
+1005,Running Shoes,Footwear,2,2500,5000,North,05-03-2025
+1006,Smart Watch,Electronics,2,7000,14000,NULL,06-03-2025
+1007,Treadmill,Fitness,1,NULL,NULL,South,07-03-2025
+1008,Air Fryer,Kitchenware,3,4500,13500,East,08-03-2025
+1009,Vacuum Cleaner,Appliances,NULL,6000,NULL,North,09-03-2025
+1010,Dumbbells,Fitness,2,1500,3000,West,10-03-2025
+1011,Laptop Stand,Electronics,5,NULL,NULL,East,11-03-2025
+1012,Toaster,Kitchenware,1,2200,2200,South,12-03-2025
+1013,Air Purifier,Appliances,2,12000,24000,West,13-03-2025
+1014,Resistance Bands,Fitness,NULL,900,NULL,North,14-03-2025
+1015,Hair Dryer,Appliances,3,1800,5400,East,15-03-2025
+1016,Electric Kettle,Kitchenware,NULL,1500,NULL,South,16-03-2025
+1017,Office Chair,Furniture,1,8000,8000,West,17-03-2025
+1018,Adjustable Dumbbells,Fitness,2,5500,11000,North,18-03-2025
+1019,Soundbar,Electronics,1,20000,20000,East,19-03-2025
+1020,Yoga Block,Fitness,NULL,1200,NULL,South,20-03-2025
+1021,Rice Cooker,Kitchenware,2,4000,8000,West,21-03-2025
+1022,Monitor,Electronics,NULL,15000,NULL,North,22-03-2025
+1023,Iron,Appliances,1,2500,2500,East,23-03-2025
+1024,Resistance Bands,Fitness,3,NULL,NULL,South,24-03-2025
+1025,Smart TV,Electronics,1,40000,40000,West,25-03-2025
+1026,Water Bottle,Kitchenware,5,200,1000,North,26-03-2025
+1027,Sofa Set,Furniture,1,55000,55000,East,27-03-2025
+1028,Treadmill,Fitness,NULL,50000,NULL,South,28-03-2025
+1029,Microwave Oven,Appliances,2,12000,24000,West,29-03-2025
+1030,Laptop,Electronics,1,70000,70000,North,30-03-2025
